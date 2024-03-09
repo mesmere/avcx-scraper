@@ -28,7 +28,7 @@ eza -l out/
 
 Q. Why am I only getting .puz files?
 
-A. `avcx-scraper` only downloads files in the AcrossLite format because that's all I care about. Some puzzles (e.g. the trivias) don't have .puz files, so they won't be downloaded. If you want a full backup of everything, it would be trivial to modify the code. 🤷‍♀ Seriously, it's one line.
+A. `avcx-scraper` only downloads files in the AcrossLite format because that's all I care about. Some puzzles (e.g. the trivias) don't have .puz files, so they won't be downloaded. If you want a full backup of everything, it would be trivial to modify the code. 🤷‍♀️ Seriously, it's one line.
 
 Q. Why are the filenames in this awful scheme that doesn't sort cleanly?
 
